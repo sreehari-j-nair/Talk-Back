@@ -19,4 +19,4 @@ Contributing:
 Contributions to this speech repetition program are welcome! If you would like to contribute new features, bug fixes, or improvements, please fork the repository and submit a pull request.
 
 License:
-This speech repetition program is released under the [insert license name] license. Please refer to the LICENSE file for more information.
+This speech repetition program is released under the GNU General Public license. Please refer to the LICENSE file for more information.
